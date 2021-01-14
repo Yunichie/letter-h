@@ -4,8 +4,8 @@
   "description": "yan-p but this is it's second attempt",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "echo \"Error: no test specified\" "
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yunichie/package-2.git"
