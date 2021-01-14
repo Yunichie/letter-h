@@ -1,11 +1,11 @@
 {
   "name": "yan-pkg",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "yan-p but this is it's second attempt",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" "
-    },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yunichie/package-2.git"
