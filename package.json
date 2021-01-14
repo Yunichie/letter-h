@@ -1,0 +1,19 @@
+{
+  "name": "yan-pkg",
+  "version": "1.0.0",
+  "description": "yan-p but this is it's second attempt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunichie/package-2.git"
+  },
+  "author": "yann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunichie/package-2/issues"
+  },
+  "homepage": "https://github.com/yunichie/package-2#readme"
+}
