@@ -1,19 +1,19 @@
 {
-  "name": "yan-pkg",
+  "name": "letter-h-pkg",
   "version": "1.2.1",
-  "description": "yan-p but this is it's second attempt",
+  "description": "h",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" "
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yunichie/package-2.git"
+    "url": "git+https://github.com/yunichie/letter-h.git"
   },
   "author": "yann",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yunichie/package-2/issues"
+    "url": "https://github.com/yunichie/letter-h/issues"
   },
-  "homepage": "https://github.com/yunichie/package-2#readme"
+  "homepage": "https://github.com/yunichie/letter-h#readme"
 }
