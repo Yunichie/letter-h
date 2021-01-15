@@ -1,3 +1,7 @@
+## H
+
+h
+
 ## Installation
 ```
 npm i letter-h
@@ -6,9 +10,5 @@ npm i letter-h
 ## Usage
 ```js
 const h = require("letter-h");
-h("hello world");
+h("hello world"); // output => "hhhhh hhhhh"
 ```
-
-## H
-
-h
