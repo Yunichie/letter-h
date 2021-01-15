@@ -1,6 +1,6 @@
 {
   "name": "yan-pkg",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "yan-p but this is it's second attempt",
   "main": "index.js",
   "scripts": {
