@@ -1,7 +1,7 @@
 {
-  "name": "letter-h-pkg",
+  "name": "letter-h",
   "version": "1.2.3",
-  "description": "h",
+  "description": "this will h your text.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" "
