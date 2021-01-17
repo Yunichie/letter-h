@@ -1,6 +1,6 @@
 ## H
 
-h
+[h](https://www.npmjs.com/package/letter-h)
 
 ## Installation
 ```
