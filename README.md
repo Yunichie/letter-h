@@ -12,3 +12,8 @@ npm i letter-h
 const h = require("letter-h");
 h("hello world"); // output => "hhhhh hhhhh"
 ```
+
+## Parameters
+```js
+h(string, letter); // h("hello world", "m");
+```
