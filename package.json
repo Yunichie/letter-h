@@ -1,7 +1,7 @@
 {
   "name": "letter-h",
   "version": "2.5.4",
-  "description": "this will h your text.",
+  "description": "this will h your text. It's customizeable now.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" "
