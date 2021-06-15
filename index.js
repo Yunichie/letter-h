@@ -1,5 +1,4 @@
 module.exports = function h(string, letter) {
-  if(typeof(string) !== "string") throw new TypeError("argument(s) must be a string!");
   
   if(letter === undefined) {
     letter = "h";
